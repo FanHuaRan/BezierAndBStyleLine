@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BezierDemo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPE2A7.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/BezierDemo.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Programing\计算机图形学\BezierDemo\BezierDemoView.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPE2A7.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPE2A8.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BezierDemo.pdb" /debug /machine:I386 /out:"Debug/BezierDemo.exe" /pdbtype:sept 
+".\Debug\BezierDemo.obj"
+".\Debug\BezierDemoDoc.obj"
+".\Debug\BezierDemoView.obj"
+".\Debug\BezierMath.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\BezierDemo.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPE2A8.tmp"
+<h3>Output Window</h3>
+Compiling...
+BezierDemoView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BezierDemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
